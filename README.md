@@ -7,4 +7,4 @@ https://raw.githubusercontent.com/videofeedback/broadcast-gpt/main/images/04_sys
 
 
 
-[![](https://raw.githubusercontent.com/videofeedback/broadcast-gpt/main/images/04_systems_cards_aggregator.png)](https://raw.githubusercontent.com/videofeedback/broadcast-gpt/main/images/04_systems_cards_aggregator.png)
+[![](https://raw.githubusercontent.com/videofeedback/broadcast-gpt/main/images/04_systems_cards_aggregator.png)]
