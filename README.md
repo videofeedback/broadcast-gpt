@@ -2,10 +2,7 @@
 This is a GPT aggregator of KNOWLEDGE files for the Broadcasting Industry.
 
 
-![Alt Text](https://github.com/videofeedback/broadcast-gpt/blob/main/images/aggregator_system.png)
-
-
-# Broadcast-GPT
+![Aggregator GPT System](https://github.com/videofeedback/broadcast-gpt/blob/main/images/aggregator_system.png)
 
 ## Project Description
 Broadcast-GPT aims to build a comprehensive database of broadcast-related documentation to enhance custom GPT models with a diverse range of knowledge files. This repository serves as a hub for collecting user manuals, service manuals, API documentation, data sheets, schematics, diagrams, hardware documentation, software documentation, instructional videos, educational content, standards papers, white papers, GitHub repositories, patents, and more.
