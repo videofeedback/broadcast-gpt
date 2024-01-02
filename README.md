@@ -13,9 +13,13 @@ Broadcast-GPT aims to build a comprehensive database of broadcast-related docume
 - **Simple Data Collection**: A straightforward form located at [http://aggregator.ramiroslab.com](http://aggregator.ramiroslab.com) allows for easy submission of documents and links.
 
 ## How to Use
-1. **Visit the Aggregator**: Go to [http://aggregator.ramiroslab.com](http://aggregator.ramiroslab.com) to start contributing documentation.
-2. **Upload Documents**: Submit your files in the supported formats (PDF, TXT, DOC, JPG, PNG, GIF). Ensure they are related to broadcast technology and can enrich the GPT's knowledge.
+1. **Visit the Aggregator**: Go to [https://forms.gle/xAyK5wnkym638FBeA](https://forms.gle/xAyK5wnkym638FBeA) to start contributing documentation.
+2. **Document URL**: Submit your files URL in the supported formats (PDF, TXT, DOC, JPG, PNG, GIF). Ensure they are related to broadcast technology and can enrich the GPT's knowledge. If not, indicate on the designated field.
 3. **Contribute Links**: Share URLs to relevant YouTube videos or other educational content that can provide valuable insights into broadcast technologies.
+
+![Aggregator GPT Google Form](https://github.com/videofeedback/broadcast-gpt/blob/main/images/aggregator_gpt_form.jpg)
+
+
 
 ## Contributing
 We welcome contributions from the community! If you have documentation or links to share, please submit them through our form. For larger contributions or suggestions, please open an issue or pull request in this repository.
@@ -25,9 +29,8 @@ We welcome contributions from the community! If you have documentation or links 
 - Respect copyright and intellectual property rights. Only submit content you are legally allowed to share.
 
 ## Contact
-For any questions or assistance, please reach out to [Your Contact Information].
+For any questions or assistance, please reach out to stepbystep.quantumhex@gmail.com .
 
 ## Acknowledgements
 A special thanks to everyone who has contributed to building this valuable resource!
-
 
