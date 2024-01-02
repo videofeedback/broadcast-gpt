@@ -17,7 +17,7 @@ Broadcast-GPT aims to build a comprehensive database of broadcast-related docume
 2. **Document URL**: Submit your files URL in the supported formats (PDF, TXT, DOC, JPG, PNG, GIF). Ensure they are related to broadcast technology and can enrich the GPT's knowledge. If not, indicate on the designated field.
 3. **Contribute Links**: Share URLs to relevant YouTube videos or other educational content that can provide valuable insights into broadcast technologies.
 
-![Aggregator GPT Google Form](https://github.com/videofeedback/broadcast-gpt/blob/main/images/aggregator_gpt_form.jpg)
+![Aggregator GPT Google Form](https://github.com/videofeedback/broadcast-gpt/blob/main/images/aggregator_gpt_google_form.png)
 
 
 
