@@ -1,3 +1,5 @@
+[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
+
 # Broadcast-gpt
 This is a GPT aggregator of KNOWLEDGE files for the Broadcasting Industry.
 
